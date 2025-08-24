@@ -123,12 +123,6 @@ With this dashboard, you can:
    
 ---
 
-## Tools Used
-- **Excel**: Data cleaning, pivot tables, charts, and statistical summaries.  
-- **Tableau**: Interactive dashboard creation, storytelling, and advanced visualization.  
-
----
-
 ## Usage Instructions
 1. Load the dataset (`youtube_channel_real_performance_analytics2.csv`) into Tableau or Excel.  
 2. Explore the pre-built dashboard to view key performance indicators.  
