@@ -1,5 +1,7 @@
 # YouTube Channel Analytics Dashboard
 
+View tableau public URL of the dashboard: https://public.tableau.com/views/YoutubeChannelAnalyticsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Overview
 
 This project focused on analyzing the performance of a YouTube channel using analytics data. The goal was to uncover trends in views, impressions, subscriber growth, and revenue while also identifying the best strategies for publishing content. To achieve this, I designed and developed an interactive dashboard in Tableau that enables stakeholders to explore key performance metrics and make data-driven publishing decisions.By leveraging **Excel** and **Tableau**, the dashboard transforms raw data into meaningful insights that guide content strategy and optimize performance.
